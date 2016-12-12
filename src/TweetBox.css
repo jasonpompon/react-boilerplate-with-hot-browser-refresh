@@ -1,0 +1,6 @@
+$someColor: purple;
+
+
+.warning {
+  color: $someColor;
+}
